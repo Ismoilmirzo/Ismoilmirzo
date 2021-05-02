@@ -1,0 +1,11 @@
+print("0<A<B<C<101")
+D=int(input("Kiriting:"))
+A=D[0]
+B=D[-1]
+C=D[2]
+if (B-A)<(C-B):
+    print("2-mushuk")
+if (B-A)>(C-B):
+    print("1-mushuk")
+if (B-A)==(C-B):
+    print("Sichqon")
