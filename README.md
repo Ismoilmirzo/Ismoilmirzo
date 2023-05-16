@@ -1,5 +1,3 @@
--👋 Salom, men @Ismoilmirzo
--👀 Men dasturlashga qiziqaman
--🌱 Hozirda python va HTML tillarini o'rganyapman
--💞️ Men Python-da hamkorlik qilmoqchiman
--📫Menga qanday murojaat qilish kerak ismoilmirzouz@gmail.com
+-👋 Hi, I am @Ismoilmirzo
+-👀 I am python developer
+-📫You can email me by ismoilmirzouz@gmail.com
